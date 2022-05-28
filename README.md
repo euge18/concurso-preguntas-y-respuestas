@@ -14,7 +14,9 @@ package Clases dentro del src del proyecto JuegoDePreguntas. Ahí encontrara las
 modificar para hacer funcionar la base de datos. 
 
 USER --> Usuario (Ej: "root")
+
 PASSWORD --> Contraseña (Ej: "123")
+
 URL --> La url con la ubicación de nuestra base de datos (Ej: "jdbc:mysql://localhost:3306/bdjuegopreguntas")
 
 En la base de datos están tanto las tablas de las preguntas clasificadas por categorías (uno, dos, tres, cuatro y 
